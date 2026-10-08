@@ -1,4 +1,4 @@
-# Morphex — Four-Way Morphing Synth
+# Morphex — HPS Morphing Synth
 
 A VST3 / Standalone spectral morphing instrument by **BalamDSP**.
 Loads four HPS-analyzed sounds and morphs between them on an XY pad, with
