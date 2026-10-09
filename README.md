@@ -26,9 +26,8 @@ Formats: **VST3**, **AU** (macOS), **CLAP** + **Standalone** (JUCE 9, CMake).
 
 ### Analysis window
 - Drop in audio and get analyzed partials: source and
-  resynthesis waveforms, partials map with f0 line, region-scoped analysis,
-  A/B comparison playback, batch analysis, recent files, `.had` + resynth
-  WAV export and in-place slot analysis with live progress.
+  resynthesis waveforms, partials map with f0 line, region-scoped analysis
+  and A/B comparison playback.
 
 ### Interface
 - Fixed CRT panel with a toggleable **CRT overlay** based on cool-retro-term.
@@ -60,8 +59,8 @@ automatically via CMake's FetchContent.
 |---|---|---|
 | JUCE framework | JUCE Ltd | AGPLv3 |
 | clap-juce-extensions | free-audio | MIT |
-| SMS tools | MTG-UPF | GPL |
-| [Original Morphex](github.com/MarcSM/morphex) | Marc Sanchez Martinez | GPL |
+| SMS tools | MTG-UPF | AGPLv3 |
+| [Original Morphex](github.com/MarcSM/morphex) | Marc Sanchez Martinez | GPLv3 |
 | Vutu | Madrona Labs | GPLv3 |
 | cool-retro-term | Filippo Scognamiglio (Swordfish90) | GPL |
 | VT323 typeface | Peter Hull | OFL |
